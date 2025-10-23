@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192)**.
+A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192) and Web Search Functionality**.
 
 ### ✅ Features
 
