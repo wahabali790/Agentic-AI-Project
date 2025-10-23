@@ -1,25 +1,80 @@
-# Agentic AI Project ## 🚀 Overview A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192)**. ### ✅ Features * 🤖 Basic Chatbot powered by Groq Llama3 * 🌐 Real-time Web Search Agent * 🔄 Stateful LangGraph Orchestrator * 🔐 Secure .env API Key Loading ## 📹 Live Demo <video width="100%" controls> <source src="https://github.com/wahabali790/Agentic-AI-Project/AgenticAI.mp4" type="video/mp4"> </video> ## 🛠️ Tech Stack | Component | Technology | | ---------- | ------------------------------ | | LLM | Groq Llama3 | | Framework | LangGraph | | Language | Python | | Capability | Web Search + Agentic Reasoning | --- ## 📦 Installation
-bash
-git clone https://github.com/USERNAME/Agentic-AI-Project.git
-cd Agentic-AI-Project
-pip install -r requirements.txt
-Create .env file:
-env
-GROQ_API_KEY=your_key_here
-OPENAI_API_KEY=your_key_if_any
---- ## ▶️ Run the Agent
-bash
-python app.py
---- ## ✅ Current Use Cases * 💬 AI Chatbot * 🔍 Live Web Search --- ## 🚧 Upcoming Enhancements * 🖥️ Web UI / Streamlit Dashboard * 🧠 Memory & Autonomous Agents --- ## 🤝 Contributing PRs welcome — Fork → Improve → PR --- ## 📬 Contact For ideas, reach out via GitHub Issues or Discussions.bash git clone [https://github.com/USERNAME/Agentic-AI-Project.git](https://github.com/USERNAME/Agentic-AI-Project.git) cd Agentic-AI-Project pip install -r requirements.txt
-`
-Create `.env` file:
-env GROQ_API_KEY=your_key_here OPENAI_API_KEY=your_key_if_any
-`
+# Agentic AI Project
+
+## 🚀 Overview
+
+A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192)**.
+
+### ✅ Features
+
+* 🤖 Basic Chatbot powered by Groq Llama3
+* 🌐 Real-time Web Search Agent
+* 🔄 Stateful LangGraph Orchestrator
+* 🔐 Secure .env API Key Loading
+
+## 📹 Live Demo
+
+<video width="100%" controls>
+  <source src="https://github.com/wahabali790/Agentic-AI-Project/AgenticAI.mp4?raw=1" type="video/mp4">
+</video>
+
+## 🛠️ Tech Stack
+
+| Component  | Technology                     |
+| ---------- | ------------------------------ |
+| LLM        | Groq Llama3                    |
+| Framework  | LangGraph                      |
+| Language   | Python                         |
+| Capability | Web Search + Agentic Reasoning |
 
 ---
 
-## 🧠 Run the Agent
-bash python app.py
+## 📦 Installation
+
+```bash
+git clone https://github.com/USERNAME/Agentic-AI-Project.git
+cd Agentic-AI-Project
+pip install -r requirements.txt
+```
+
+Create `.env` file:
+
+```env
+GROQ_API_KEY=your_key_here
+OPENAI_API_KEY=your_key_if_any
+```
+
+---
+
+## ▶️ Run the Agent
+
+```bash
+python app.py
+```
+
+---
+
+## ✅ Current Use Cases
+
+* 💬 AI Chatbot
+* 🔍 Live Web Search
+
+---
+
+## 🚧 Upcoming Enhancements
+
+* 🖥️ Web UI / Streamlit Dashboard
+* 🧠 Memory & Autonomous Agents
+
+---
+
+## 🤝 Contributing
+
+## PRs welcome — Fork → Improve → PR
+
+## 📬 Contact
+
+For ideas, reach out via GitHub Issues or Discussions.
+
 ---
 
 ## ✅ Usecases Supported
@@ -36,5 +91,3 @@ bash python app.py
 * Groq Llama 3
 * Python
 * Web Automation Ready
-
----
