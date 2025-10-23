@@ -11,11 +11,7 @@ A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192)**
 * 🔄 Stateful LangGraph Orchestrator
 * 🔐 Secure .env API Key Loading
 
-## 📹 Live Demo
 
-<video width="100%" controls>
-  <source src="https://github.com/wahabali790/Agentic-AI-Project/AgenticAI.mp4?raw=1" type="video/mp4">
-</video>
 
 ## 🛠️ Tech Stack
 
@@ -50,30 +46,6 @@ OPENAI_API_KEY=your_key_if_any
 ```bash
 python app.py
 ```
-
----
-
-## ✅ Current Use Cases
-
-* 💬 AI Chatbot
-* 🔍 Live Web Search
-
----
-
-## 🚧 Upcoming Enhancements
-
-* 🖥️ Web UI / Streamlit Dashboard
-* 🧠 Memory & Autonomous Agents
-
----
-
-## 🤝 Contributing
-
-## PRs welcome — Fork → Improve → PR
-
-## 📬 Contact
-
-For ideas, reach out via GitHub Issues or Discussions.
 
 ---
 
