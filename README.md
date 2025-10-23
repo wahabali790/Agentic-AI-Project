@@ -17,7 +17,7 @@ A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192)**
 
 
 <video width="100%" controls>
-<source src="https://github.com/wahabali790/Agentic-AI-Project/Agentic AI.mp4" type="video/mp4">
+<source src="https://github.com/wahabali790/Agentic-AI-Project/AgenticAI.mp4" type="video/mp4">
 </video>
 
 ## 🛠️ Tech Stack
