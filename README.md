@@ -1,54 +1,138 @@
 # Agentic AI Project
 
 ## 🚀 Overview
-This project is a LangGraph-based **Agentic AI system** with the following features:
 
-- ✅ **Basic Chatbot using Groq (Llama3-8b-8192)**
-- ✅ **Real-time Web Search Integration**
-- ✅ **Stateful Agent Flow using LangGraph**
-- ✅ **Environment-based secure API key loading**
-- 🎥 **Demo video link preview at top of README (to be added)**
+A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192)**.
 
----
-## 📹 Demo Preview
-> _Embed or link your demo video here (GIF or YouTube link)_
+### ✅ Features
+
+* 🤖 Basic Chatbot powered by Groq Llama3
+* 🌐 Real-time Web Search Agent
+* 🔄 Stateful LangGraph Orchestrator
+* 🔐 Secure `.env` API Key Loading
 
 ---
-## 💡 Features Implemented
-- Natural conversation via Groq LLM
-- Web search agent for real-time knowledge
-- Clean modular LangGraph workflow
-- Ready for deployment
+
+## 📹 Live Demo
+
+👉 *Add your YouTube video or GIF preview here*
 
 ---
-## 📦 Setup Instructions
+
+## 🛠️ Tech Stack
+
+| Component  | Technology                     |
+| ---------- | ------------------------------ |
+| LLM        | Groq Llama3                    |
+| Framework  | LangGraph                      |
+| Language   | Python                         |
+| Capability | Web Search + Agentic Reasoning |
+
+---
+
+## 📦 Installation
+
 ```bash
 git clone https://github.com/USERNAME/Agentic-AI-Project.git
 cd Agentic-AI-Project
 pip install -r requirements.txt
-Create .env file:
+```
 
-env
-Copy code
+Create `.env` file:
+
+```env
 GROQ_API_KEY=your_key_here
 OPENAI_API_KEY=your_key_if_any
-🧠 Run the Agent
-bash
-Copy code
+```
+
+---
+
+## ▶️ Run the Agent
+
+```bash
 python app.py
-✅ Usecases Supported
-Basic Chatbot Conversation
+```
 
-Live Web Search Queries
+---
 
-(More coming soon...)
+## ✅ Current Use Cases
 
-📄 Tech Stack
-LangGraph
+* 💬 AI Chatbot
+* 🔍 Live Web Search
 
-Groq Llama 3
+---
 
-Python
+## 🚧 Upcoming Enhancements
 
-Web Automation Ready
+* 🖥️ Web UI / Streamlit Dashboard
+* 🧠 Memory & Autonomous Agents
 
+---
+
+## 🤝 Contributing
+
+PRs welcome — Fork → Improve → PR
+
+---
+
+## 📬 Contact
+
+For ideas, reach out via GitHub Issues or Discussions.bash
+git clone [https://github.com/USERNAME/Agentic-AI-Project.git](https://github.com/USERNAME/Agentic-AI-Project.git)
+cd Agentic-AI-Project
+pip install -r requirements.txt
+
+````
+Create `.env` file:
+```env
+GROQ_API_KEY=your_key_here
+OPENAI_API_KEY=your_key_if_any
+````
+
+---
+
+## 🧠 Run the Agent
+
+```bash
+python app.py
+```
+
+---
+
+## ✅ Usecases Supported
+
+* **Basic Chatbot Conversation**
+* **Live Web Search Queries**
+* (More coming soon...)
+
+---
+
+## 📄 Tech Stack
+
+* LangGraph
+* Groq Llama 3
+* Python
+* Web Automation Ready
+
+---
+
+## 📌 Coming Next
+
+* UI / Web Interface
+* Memory Persistence
+* Autonomous Task Planning
+
+---
+
+## 🤝 Contributing
+
+PRs are welcome. Fork → Feature → PR.
+
+---
+
+## 📬 Contact
+
+For improvements, reach out via Issues or Discussions.
+
+```
+```
