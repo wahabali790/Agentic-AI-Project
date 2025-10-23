@@ -11,14 +11,13 @@ A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192)**
 * 🔄 Stateful LangGraph Orchestrator
 * 🔐 Secure `.env` API Key Loading
 
----
+
 
 ## 📹 Live Demo
 
 <video width="100%" controls>
   <source src="https://drive.google.com/uc?export=download&id=1mBkVAOcCGVahkJ5G0JfF_9pUBX4cXJzW" type="video/mp4">
 </video>
----
 
 ## 🛠️ Tech Stack
 
