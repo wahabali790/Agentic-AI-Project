@@ -26,3 +26,29 @@ This project is a LangGraph-based **Agentic AI system** with the following featu
 git clone https://github.com/USERNAME/Agentic-AI-Project.git
 cd Agentic-AI-Project
 pip install -r requirements.txt
+Create .env file:
+
+env
+Copy code
+GROQ_API_KEY=your_key_here
+OPENAI_API_KEY=your_key_if_any
+🧠 Run the Agent
+bash
+Copy code
+python app.py
+✅ Usecases Supported
+Basic Chatbot Conversation
+
+Live Web Search Queries
+
+(More coming soon...)
+
+📄 Tech Stack
+LangGraph
+
+Groq Llama 3
+
+Python
+
+Web Automation Ready
+
