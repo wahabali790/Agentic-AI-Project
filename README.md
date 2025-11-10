@@ -16,9 +16,8 @@ A modern **Agentic AI system** built using **LangGraph + Groq** with **Web Searc
 
 ## 📹 Live Demo
 
-🎥 [Watch Live Demo]([https://drive.google.com/uc?export=download&id=1mBkVAOcCGVahkJ5G0JfF_9pUBX4cXJzW](https://drive.google.com/file/d/1mBkVAOcCGVahkJ5G0JfF_9pUBX4cXJzW/view?usp=sharing))
+🎥 [Watch Live Demo](https://drive.google.com/file/d/1mBkVAOcCGVahkJ5G0JfF_9pUBX4cXJzW/view?usp=sharing)
 
----
 
 ## 🛠️ Tech Stack
 
