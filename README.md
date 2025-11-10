@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192)** with **Web Search and Real-Time AI News Fetching** capabilities.
+A modern **Agentic AI system** built using **LangGraph + Groq** with **Web Search and Real-Time AI News Fetching** capabilities.
 
 ### ✅ Features
 
@@ -10,7 +10,7 @@ A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192)**
 * 🌐 Real-time Web Search Agent  
 * 🧠 AI News Fetcher (Daily, Weekly, Monthly)  
 * 🔄 Stateful LangGraph for Contextual Reasoning  
-* 🔐 Secure .env API Key Loading  
+
 
 ---
 
@@ -24,7 +24,7 @@ A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192)**
 
 | Component  | Technology                     |
 | ----------- | ------------------------------ |
-| LLM         | Groq Llama3                    |
+| LLM         | Groq                 |
 | Framework   | LangGraph                      |
 | Language    | Python                         |
 | Capability  | Web Search + AI News + Agentic Reasoning |
@@ -37,3 +37,4 @@ A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192)**
 git clone https://github.com/USERNAME/Agentic-AI-Project.git
 cd Agentic-AI-Project
 pip install -r requirements.txt
+
