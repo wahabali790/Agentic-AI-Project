@@ -2,28 +2,32 @@
 
 ## 🚀 Overview
 
-A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192) and Web Search Functionality**.
+A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192)** with **Web Search and Real-Time AI News Fetching** capabilities.
 
 ### ✅ Features
 
-* 🤖 Basic Chatbot powered by Groq Llama3
-* 🌐 Real-time Web Search Agent
-* 🔄 Stateful LangGraph
-* 🔐 Secure .env API Key Loading
+* 🤖 Basic Chatbot powered by Groq Llama3  
+* 🌐 Real-time Web Search Agent  
+* 🧠 AI News Fetcher (Daily, Weekly, Monthly)  
+* 🔄 Stateful LangGraph for Contextual Reasoning  
+* 🔐 Secure .env API Key Loading  
+
+---
 
 ## 📹 Live Demo
 
-- https://drive.google.com/uc?export=download&id=1mBkVAOcCGVahkJ5G0JfF_9pUBX4cXJzW
+🎥 [Watch Live Demo]([https://drive.google.com/uc?export=download&id=1mBkVAOcCGVahkJ5G0JfF_9pUBX4cXJzW](https://drive.google.com/file/d/1mBkVAOcCGVahkJ5G0JfF_9pUBX4cXJzW/view?usp=sharing))
 
+---
 
 ## 🛠️ Tech Stack
 
 | Component  | Technology                     |
-| ---------- | ------------------------------ |
-| LLM        | Groq Llama3                    |
-| Framework  | LangGraph                      |
-| Language   | Python                         |
-| Capability | Web Search + Agentic Reasoning |
+| ----------- | ------------------------------ |
+| LLM         | Groq Llama3                    |
+| Framework   | LangGraph                      |
+| Language    | Python                         |
+| Capability  | Web Search + AI News + Agentic Reasoning |
 
 ---
 
@@ -33,36 +37,3 @@ A modern **Agentic AI system** built using **LangGraph + Groq (Llama3-8b-8192) a
 git clone https://github.com/USERNAME/Agentic-AI-Project.git
 cd Agentic-AI-Project
 pip install -r requirements.txt
-```
-
-Create `.env` file:
-
-```env
-GROQ_API_KEY=your_key_here
-OPENAI_API_KEY=your_key_if_any
-```
-
----
-
-## ▶️ Run the Agent
-
-```bash
-python app.py
-```
-
----
-
-## ✅ Usecases Supported
-
-* **Basic Chatbot Conversation**
-* **Live Web Search Queries**
-* (More coming soon...)
-
----
-
-## 📄 Tech Stack
-
-* LangGraph
-* Groq Llama 3
-* Python
-* Web Automation Ready
